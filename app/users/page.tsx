@@ -49,12 +49,8 @@ export default function () {
                         <img src="/mail.svg" className="w-8 h-8"/>
                         <p className="text-3xl text-white"> Message
                         </p>
-
                     </div>
                 </div>
-
-
-
             </div>
         </section>
     )
